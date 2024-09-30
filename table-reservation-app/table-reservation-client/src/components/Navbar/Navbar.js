@@ -135,7 +135,7 @@ const Navbar = (props) => {
                   to="/"
                   onClick={closeNavbar} // Close the navbar on click
                 >
-                  Home world1
+                  Home world12
                 </Link>
               </li>
               <li className="nav-item">
